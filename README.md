@@ -1,6 +1,6 @@
 # 💻 Algoritmo e Pensamento Computacional
 
-Resolução de exercícios práticos da disciplina Algoritmo e Pensamento Computacional, ministrada pela Me. Joanacelle Caldas de Melo.
+Resolução de exercícios práticos da disciplina Algoritmos e Pensamento Computacional, ministrada pela Me. Joanacelle Caldas de Melo.
 A disciplina tem como objetivo a formação de profissionais capacitados a resolver problemas computacionais
 de forma estruturada e eficiente, do raciocínio lógico até a implementação de algoritmos na linguagem C.
 
